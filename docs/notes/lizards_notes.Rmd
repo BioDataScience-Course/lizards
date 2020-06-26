@@ -1,0 +1,20 @@
+---
+title: "Carnet de notes"
+author: '...'
+date: "../../...."
+output: 
+  html_document: 
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+    code_folding: hide
+---
+
+```{r setup}
+knitr::opts_chunk$set(echo = TRUE)
+SciViews::R
+```
+
+# Contexte
+
+# Analyses

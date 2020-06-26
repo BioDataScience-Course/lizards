@@ -1,0 +1,25 @@
+---
+title: '....'
+author: '...'
+date: "26/06/2020"
+output: 
+  html_document: 
+    fig_caption: yes
+    number_sections: yes
+    toc: yes
+    code_folding: hide
+---
+
+```{r setup, message=FALSE, warning=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+
+# But
+
+# Matériels et méthodes
+
+# Résultats
+
+# Discussions et Conclusion
