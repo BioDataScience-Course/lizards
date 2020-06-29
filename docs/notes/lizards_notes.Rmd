@@ -15,6 +15,21 @@ knitr::opts_chunk$set(echo = TRUE)
 SciViews::R
 ```
 
+
+<!--- G.E. consignes
+Un carnet de notes sert à consigner tous vos graphiques, vos tableaux et vos analyses. Les analyses les plus judicieuses doivent être consignées dans votre rapport. 
+
+En résumé, un carnet de notes sert à tout consigner alors qu'un rapport scientifique sert uniquement pour les analyses les plus intéressantes. 
+--->
+
 # Contexte
 
+<!--- G.E. consignes
+Cette section doit présenter en 1 paragraphe maximum sur le sujet de ce carnet de notes. 
+---->
+
 # Analyses
+
+<!--- G.E. consignes
+Tous les graphiques, tableaux et analyses doivent être commentés. 
+---->

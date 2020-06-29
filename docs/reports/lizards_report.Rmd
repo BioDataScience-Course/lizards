@@ -16,10 +16,42 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
+<!--- G.E. consignes
+Cette section doit comprendre maximum 2 paragraphes. Vous devez présenter l'espèce d'intérêt (lieux de vie, alimentation,...). Vous devez présenter le lieux de l'expérience.
+
+L'utilisation de source externe donne une véritable plus-value à votre introduction. N'oubliez pas de référencer ces sources dans la bibliographie.
+
+Attention, vous devez utiliser des structures écrites.
+--->
+
 # But
+
+<!--- G.E. consignes
+Cette section doit comprendre 1 paragraphe qui présente la question de recherche. 
+
+Attention, vous devez utiliser des structures écrites.
+--->
 
 # Matériels et méthodes
 
+<!--- G.E. consignes
+Cette section doit comprendre 3 paragraphes. Le premier paragraphe doit présenter les données (d'où ces données proviennent,...). Il peut par exemple être intéressant de proposer une carte du lieu d'étude. Le second paragraphe doit présenter le(s) test(s) statistique(s)/modèle(s) que vous employez. Le dernier paragraphe doit présenter les outils et la version des outils. 
+
+Attention, vous devez utiliser des structures écrites.
+--->
+
 # Résultats
 
+<!--- G.E. consignes
+Cette section doit comprendre au minimum 2 et maximum 5 graphiques. Chaque graphique doit avoir des labels en français et une légende complète. Cette section doit comprendre au minimum 1 et maximum 2 tableaux. Chaque tableau doit avoir un titre. Les graphiques et les tableaux doivent être décrits dans le texte. 
+
+Vous devez proposer l'analyse la plus judicieuse des données. Il n'est donc pas nécessaire de proposer l'analyse de chaque module. Le choix des analyses à présenter est complex. Il ne faut pas proposer une analyse pour chaque module.
+
+Attention, vous devez utiliser des structures écrites.
+---->
+
 # Discussions et Conclusion
+
+<!---- G.E. consignes
+Cette section doit comprendre maximum 3 paragraphes. L'utilisation de source externe donne une véritable plus-value à votre discussion. N'oubliez pas de référencer ces sources dans la bibliographie.
+---->
