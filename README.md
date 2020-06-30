@@ -109,3 +109,16 @@ Pour en apprendre plus, visitez : <http://www.sciviews.org>
 -----
 
 ## Bibliographie
+
+<div id="refs" class="references">
+
+<div id="ref-2019yang">
+
+Yang, Chen, Jinming Zhao, Raul E. Diaz, and Nan Lyu. 2019. “Development
+of Sexual Dimorphism in Two Sympatric Skinks with Different Growth
+Rates.” *Ecology and Evolution* 9 (13): 7752–60.
+<https://doi.org/10.1002/ece3.5358>.
+
+</div>
+
+</div>

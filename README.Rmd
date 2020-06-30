@@ -13,7 +13,7 @@ SciViews::R
 
 ## Contexte
 
-Yang et son équipe (2019) ont étudié Deux espèces de lézards :
+Yang et son équipe [-@2019yang] ont étudié Deux espèces de lézards :
 
   - *Plestiodon elegans* Boulenger, 1887
 
